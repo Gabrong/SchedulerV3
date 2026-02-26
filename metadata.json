@@ -1,0 +1,5 @@
+{
+  "name": "School Scheduler",
+  "description": "A scheduling application that generates timetables with recess and lunch breaks, preventing 3 consecutive subjects.",
+  "requestFramePermissions": []
+}
